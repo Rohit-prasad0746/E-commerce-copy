@@ -1,3 +1,3 @@
 # E-commerce-copy
 This is a E-commerce website using Html ,CSS, JavaScript
-Coder:-Rohit Prasad
+ By Coder:-Rohit Prasad
